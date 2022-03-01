@@ -1,0 +1,16 @@
+PODS:
+  - TEACommon (0.1.0)
+
+DEPENDENCIES:
+  - TEACommon (from `../`)
+
+EXTERNAL SOURCES:
+  TEACommon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TEACommon: 0e29302688a0c3f6e9f2140f2a166166b95b8f41
+
+PODFILE CHECKSUM: 6aab8521fb386f8bd36bcb86fa6c7b7114879a1b
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+framework module TEACommon {
+  umbrella header "TEACommon-umbrella.h"
+
+  export *
+  module * { export * }
+}

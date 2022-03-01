@@ -1,0 +1,22 @@
+{
+  "name": "TEACommon",
+  "version": "0.1.0",
+  "summary": "A short description of TEACommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tea/TEACommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tea": "270490106@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tea/TEACommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TEACommon/Classes/**/*"
+}

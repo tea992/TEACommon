@@ -1,0 +1,6 @@
+framework module Pods_TEACommon_Tests {
+  umbrella header "Pods-TEACommon_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
