@@ -1,9 +1,5 @@
-open class TEACommon {
-    
-}
-
-let screenWidth = UIScreen.main.bounds.size.width
-let screenHeight = UIScreen.main.bounds.size.height
+public let screenWidth = UIScreen.main.bounds.size.width
+public let screenHeight = UIScreen.main.bounds.size.height
 
 // MARK: - 根据6s适配
 public func uiAdaptation(_ num: CGFloat) -> CGFloat {
